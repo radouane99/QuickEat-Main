@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/radouane99/livraison_repa
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/radouane99/livraison-front
